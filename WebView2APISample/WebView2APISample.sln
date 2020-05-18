@@ -8,6 +8,9 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebView2APISample_WinCompHelper", "WebView2APISample_WinCompHelper\WebView2APISample_WinCompHelper.vcxproj", "{481B265C-8FF5-4B30-9905-6AE3E559F284}"
 EndProject
 Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "Package", "..\Package\Package.wapproj", "{A496F23D-CD76-43B3-A314-76BC8E231520}"
+	ProjectSection(ProjectDependencies) = postProject
+		{481B265C-8FF5-4B30-9905-6AE3E559F284} = {481B265C-8FF5-4B30-9905-6AE3E559F284}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -9,7 +9,7 @@
   <Identity
     Name="MicrosoftPAXAppDev.WebView2APISampleTest"
     Publisher="CN=0E931709-5532-4551-8448-3B33A1B453EF"
-    Version="1.0.11.0" />
+    Version="1.0.18.0" />
 
   <Properties>
     <DisplayName>WebView 2 API Sample Test</DisplayName>
