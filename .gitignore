@@ -1,8 +1,8 @@
 # VS Code
 .vscode/
-package/AppPackages/
-package/bin/
-package/BundleArtifacts/
-package/obj/
+WebView2Sample/StorePackage/AppPackages/
+WebView2Sample/StorePackage/bin/
+WebView2Sample/StorePackage/BundleArtifacts/
+WebView2Sample/StorePackage/obj/
 
 
