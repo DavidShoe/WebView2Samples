@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebView2WindowsFormsBrowser
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebView2WpfBrowser", "WebView2WpfBrowser\WebView2WpfBrowser.csproj", "{68762FAD-5D35-4D53-B15B-36B521C4494E}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "APISampleSetup", "APISampleSetup\APISampleSetup.vdproj", "{824258D6-0F33-4F53-8768-D9C234491DA0}"
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "WixSetup", "WixSetup\WixSetup.wixproj", "{B4103C92-EB7C-4F12-9984-9CBE6FEA3B38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,24 @@ Global
 		{68762FAD-5D35-4D53-B15B-36B521C4494E}.Release|x64.Build.0 = Release|Any CPU
 		{68762FAD-5D35-4D53-B15B-36B521C4494E}.Release|x86.ActiveCfg = Release|Any CPU
 		{68762FAD-5D35-4D53-B15B-36B521C4494E}.Release|x86.Build.0 = Release|Any CPU
+		{824258D6-0F33-4F53-8768-D9C234491DA0}.Debug|Any CPU.ActiveCfg = Debug
+		{824258D6-0F33-4F53-8768-D9C234491DA0}.Debug|ARM64.ActiveCfg = Debug
+		{824258D6-0F33-4F53-8768-D9C234491DA0}.Debug|x64.ActiveCfg = Debug
+		{824258D6-0F33-4F53-8768-D9C234491DA0}.Debug|x86.ActiveCfg = Debug
+		{824258D6-0F33-4F53-8768-D9C234491DA0}.Release|Any CPU.ActiveCfg = Release
+		{824258D6-0F33-4F53-8768-D9C234491DA0}.Release|ARM64.ActiveCfg = Release
+		{824258D6-0F33-4F53-8768-D9C234491DA0}.Release|x64.ActiveCfg = Release
+		{824258D6-0F33-4F53-8768-D9C234491DA0}.Release|x86.ActiveCfg = Release
+		{B4103C92-EB7C-4F12-9984-9CBE6FEA3B38}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B4103C92-EB7C-4F12-9984-9CBE6FEA3B38}.Debug|ARM64.ActiveCfg = Debug|x86
+		{B4103C92-EB7C-4F12-9984-9CBE6FEA3B38}.Debug|x64.ActiveCfg = Debug|x86
+		{B4103C92-EB7C-4F12-9984-9CBE6FEA3B38}.Debug|x86.ActiveCfg = Debug|x86
+		{B4103C92-EB7C-4F12-9984-9CBE6FEA3B38}.Debug|x86.Build.0 = Debug|x86
+		{B4103C92-EB7C-4F12-9984-9CBE6FEA3B38}.Release|Any CPU.ActiveCfg = Release|x86
+		{B4103C92-EB7C-4F12-9984-9CBE6FEA3B38}.Release|ARM64.ActiveCfg = Release|x86
+		{B4103C92-EB7C-4F12-9984-9CBE6FEA3B38}.Release|x64.ActiveCfg = Release|x86
+		{B4103C92-EB7C-4F12-9984-9CBE6FEA3B38}.Release|x86.ActiveCfg = Release|x86
+		{B4103C92-EB7C-4F12-9984-9CBE6FEA3B38}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
